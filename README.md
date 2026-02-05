@@ -1,3 +1,3 @@
 # odin-recipes
 
-In this project I will create a basic Recipe list.
+In this project I created a basic Recipe list.
